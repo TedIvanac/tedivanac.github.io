@@ -59,7 +59,10 @@ nav a {
 nav a:hover {
     background-color: #ddd;
 }
-
+.pdf {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+}
 /* Active nav item styles */
 nav a.active {
     color: #ffffff;
